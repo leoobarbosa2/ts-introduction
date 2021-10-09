@@ -3,7 +3,7 @@
 
 ### Typescript
 
-A result from a simple Typescript Course as of introduction.
+A result from a simple Typescript Course as introduction on this technology.
 
 ### How to test it
 
